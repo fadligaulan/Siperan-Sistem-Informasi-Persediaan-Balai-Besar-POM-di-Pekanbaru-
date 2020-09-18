@@ -1,0 +1,13 @@
+[18-Jul-2019 20:28:34 Asia/Jakarta] PHP Fatal error:  Call to undefined function send_notification() in /home/onlz5498/public_html/infokajianislami/application/controllers/Kajian.php on line 109
+[18-Jul-2019 20:29:59 Asia/Jakarta] PHP Fatal error:  Call to undefined function send_notification() in /home/onlz5498/public_html/infokajianislami/application/controllers/Kajian.php on line 109
+[18-Jul-2019 20:30:54 Asia/Jakarta] PHP Fatal error:  Call to undefined function send_notification() in /home/onlz5498/public_html/infokajianislami/application/controllers/Kajian.php on line 109
+[19-Jul-2019 23:21:37 Asia/Jakarta] PHP Fatal error:  Call to a member function get_peserta() on null in /home/onlz5498/public_html/infokajianislami/application/controllers/Kajian.php on line 181
+[19-Jul-2019 23:22:16 Asia/Jakarta] PHP Fatal error:  Call to undefined function instance() in /home/onlz5498/public_html/infokajianislami/application/helpers/notification_helper.php on line 5
+[21-Jul-2019 19:08:52 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on array in /home/onlz5498/public_html/infokajianislami/application/controllers/Peserta.php on line 17
+[03-Aug-2019 17:04:12 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/fadc5672/public_html/infokajianislami/system/libraries/Session/drivers/Session_files_driver.php on line 265
+[25-Jun-2020 15:33:11 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bbph7822/public_html/persediaan/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[26-Jul-2020 22:13:57 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bbph7822/public_html/siperan/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[26-Jul-2020 22:30:55 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bbph7822/public_html/siperan/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[30-Jul-2020 10:58:39 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bbph7822/public_html/siperan/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[19-Aug-2020 10:24:57 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bbph7822/public_html/siperan/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[15-Sep-2020 09:14:14 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bbph7822/public_html/siperan/system/libraries/Session/drivers/Session_files_driver.php on line 212
